@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Portfolio</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+
+  </head>
+
+  <body>
+  <div class="container">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <p class="navbar-brand">My Portfolio</p>
+        </div>
+        <ul class="nav navbar-nav">
+          <li><a href="/homepage">Home</a></li>
+          <li><a href="/projects">Recent projects</a></li>
+          <li><a href="/resume">My resume</a></li>
+          <li><a href="/aboutme">About me</a></li>
+        </ul>
+      </div>
+    </nav>
+    <header>
+      <h4 class="link"><a href="https://www.linkedin.com/in/tyler-bowerman/">Follow me on Linkedin,</a><a
+          href="https://github.com/bowty14"> & Check out my Github</a></h4>
+    </header>
+    
+  </div>
+    <%= yield %>
+    
+  </body>
+</html>

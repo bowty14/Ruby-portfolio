@@ -1,0 +1,35 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.container{
+  margin-top: .5%;
+}
+body {
+  background-image: linear-gradient(deepskyblue, tomato);
+  font-family: American Typewriter, serif;
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.home {
+  background-image: url('/assets/cave.jpeg');
+}
+.greeting {
+  color: black;
+  background-color: grey;
+}
+.jumbotron {
+  background-image: linear-gradient(deepskyblue,tomato);
+  text-align: center;
+}
+.proj {
+  text-align: center;
+}
+footer {
+  margin-top: 44%;
+  margin-left: 5%;
+}
+link{
+  color: black;
+}

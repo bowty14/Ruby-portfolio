@@ -4,6 +4,9 @@
 .container{
   margin-top: .5%;
 }
+.container-fluid {
+  background-color: lightsteelblue;
+}
 body {
   background-image: linear-gradient(deepskyblue, tomato);
   font-family: American Typewriter, serif;
@@ -14,6 +17,7 @@ body {
 }
 .home {
   background-image: url('/assets/cave.jpeg');
+  background-size: 1800px;
 }
 .greeting {
   color: black;
@@ -32,4 +36,55 @@ footer {
 }
 link{
   color: black;
+}
+.resume {
+  text-align: center;
+}
+.work {
+  text-align: justify;
+  list-style-position: inside;
+  border: black;
+  border-style: groove;
+  background-color: moccasin;
+}
+.skill {
+  text-align: center;
+  text-align: justify;
+  list-style-position: inside;
+  border: black;
+  border-style: groove;
+  background-color: moccasin;
+}
+.ints {
+  text-align: center;
+  text-align: justify;
+  list-style-position: inside;
+  border: black;
+  border-style: groove;
+  background-color: moccasin;
+}
+.ED {
+  text-align: center;
+  text-align: justify;
+  list-style-position: inside;
+  border: black;
+  border-style: groove;
+  background-color: moccasin;
+}
+.nme {
+  text-align: center;
+}
+#abtme {
+  background-color: white;
+  text-align: center;
+  list-style-position: inside;
+  border: black;
+  border-style: groove;
+  opacity: 60%;
+}
+a {
+  color: black;
+}
+a:hover {
+  color: orange;
 }

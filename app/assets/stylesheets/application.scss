@@ -17,11 +17,14 @@ body {
 }
 .home {
   background-image: url('/assets/cave.jpeg');
-  background-size: 1800px;
+  background-size: 2000px;
 }
-.greeting {
+#greeting {
   color: black;
-  background-color: grey;
+}
+.phto{
+  margin-top: 40%;
+  color: white;
 }
 .jumbotron {
   background-image: linear-gradient(deepskyblue,tomato);
@@ -30,9 +33,8 @@ body {
 .proj {
   text-align: center;
 }
-footer {
-  margin-top: 44%;
-  margin-left: 5%;
+#assignments {
+  text-align: center;
 }
 link{
   color: black;
@@ -73,6 +75,10 @@ link{
 }
 .nme {
   text-align: center;
+}
+.desc {
+  font-family: American Typewriter, serif;
+  color: black;
 }
 #abtme {
   background-color: white;

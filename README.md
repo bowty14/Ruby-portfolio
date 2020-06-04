@@ -1,24 +1,33 @@
-# README
+# _{Ruby portfolio}_
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### _{This is a website displaying my professional portfolio}, {june,2020}_
 
-Things you may want to cover:
+### By _**{Tyler Bowerman}**_
 
-* Ruby version
+## Description
 
-* System dependencies
+_{This is a website displaying my professional portfolio, its purpose is to be seen by future employers in place of a hand written portfolio. }_
 
-* Configuration
+## Setup/Installation Requirements
 
-* Database creation
+* All that is needed is web browser either on your desktop or mobile phone.
 
-* Database initialization
+## Known Bugs
 
-* How to run the test suite
+_{At this time I have noticed no bugs to be present in the code. }_
 
-* Services (job queues, cache servers, search engines, etc.)
+## Support and contact details
 
-* Deployment instructions
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/bowty14/Ruby-portfolio/issues) here on GitHub._
 
-* ...
+_To view live:_
+* [Click here!](https://github.com/bowty14/Ruby-portfolio.git)
+
+
+## Technologies Used
+
+_{ html, css, bootstrap, ruby and rails}_
+
+## License & Copyright
+
+Copyright (c) 2020 **_{Tyler Bowerman}_**

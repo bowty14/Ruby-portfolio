@@ -21,7 +21,7 @@ _{At this time I have noticed no bugs to be present in the code. }_
 _Have a bug or an issue with this application? [Open a new issue](https://github.com/bowty14/Ruby-portfolio/issues) here on GitHub._
 
 _To view live:_
-* [Click here!](https://github.com/bowty14/Ruby-portfolio.git)
+* [Click here!](https://cryptic-crag-36766.herokuapp.com/homepage)
 
 
 ## Technologies Used

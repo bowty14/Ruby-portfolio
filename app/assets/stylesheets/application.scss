@@ -8,15 +8,12 @@
   background-color: lightsteelblue;
 }
 body {
-  background-image: linear-gradient(deepskyblue, tomato);
+  background-image: url('/assets/images/cave.jpeg');
   font-family: American Typewriter, serif;
   height: 100%;
   margin: 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
-}
-.home {
-  background-image: url('/assets/images/cave.jpeg')
 }
 
 #greeting {
